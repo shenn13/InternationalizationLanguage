@@ -1,0 +1,90 @@
+/* 
+  LanguageManage.strings
+  语言本地化
+
+  Created by 沈增光 on 2017/9/18.
+  Copyright © 2017年 沈增光. All rights reserved.
+*/
+//测试
+"NowLanguage"="中文";
+"PersonTitle"="个人";
+
+
+//登录
+"Please enter the Account" = "请输入用户名";
+"Please enter your password" = "请输入密码";
+"Login" = "立即登录";
+//TabBar
+"Class" = "班级";
+"Announcement" = "公告";
+"Me" = "我";
+//首页
+"Class Home Page" = "班级首页";
+//班级详情
+"Class Details" = "班级详情";
+"Class performance report" = "课堂表现报告";
+"Class announcement" = "发布班级公告";
+"Class time to choose" = "课次选择";
+"Cancel" = "取消";
+"Complete" = "完成";
+"All students" = "全部学生";
+"The student has no class evaluation" = "该同学无课次评价";
+"The class has been evaluated or has not been evaluated" = "该课次已全部评价或暂未开发评价";
+"Class time" = "课次";
+
+//课堂表现报告
+"Class performance report" = "课堂表现报告";
+"Absent" = "缺席";
+"This student is absent and will not be evaluated" = "此同学显示缺席,不予评价";
+"Please rate the class discipline!" = "请给课堂纪律评分！";
+"Please give the class participation grade!" = "请给课堂参与性评分！";
+"Please rate the situation in this class!" = "请给本次课堂掌握情况评分！";
+"Please fill in comments for the students!" = "请给学生填写评语！";
+"Submitted successfully" = "提交成功";
+"All the students have been submitted" = "所有的学生已提交完毕";
+"Teacher feedback..." = "老师反馈...";
+"Classroom discipline" = "课堂纪律";
+"Classroom participation" = "课堂参与性";
+"This class is in control" = "本次课堂掌握情况";
+"Excellence" = "优秀";
+"Good" = "良好";
+"Come on" = "要加油啦";
+"Submit" = "提交";
+
+//公告
+"No more data..." = "没有更多数据啦...";
+"Release Announcement" = "发布公告";
+"Send" = "发送";
+"Please re-upload the file too large" = "文件过大请重新上传";
+"Please enter the title" = "请输入标题";
+"Please enter the text" = "请输入正文";
+"Release success" = "发布成功";
+"Video upload failed" = "视频上传失败";
+"Video upload success" = "视频上传成功";
+"YES" = "确定";
+"Notices" = "提示";
+"Are you sure you want to cancel the announcement" = "确定要取消发布公告吗";
+"NO" = "继续";
+//我的
+"Setting" = "设置";
+"Clear cache" = "清除缓存";
+"Exit" = "退出家校通";
+"There is caches:" = "总共有缓存:";
+"Delete" = "删除";
+"Clear success" = "清除成功";
+"Head portrait" = "头像";
+"Nickname" = "昵称";
+"Sex" = "性别";
+"Phone number" = "联系电话";
+"Teacher's number" = "教师编号";
+"Email address" = "电子邮箱";
+"School" = "所在学校";
+"Change password" = "修改密码";
+"Change" = "修改";
+"Congratulations on your successful revision!" = "恭喜你修改成功！";
+"Save" = "保存";
+"Man" = "男";
+"Woman" = "女";
+"Unknown" = "未知";
+"Please enter your old password" = "请输入原密码";
+"Please enter a new password" = "请输入新密码";

@@ -1,0 +1,10 @@
+/* 
+  LanguageManage.strings
+  语言本地化
+
+  Created by 沈增光 on 2017/9/18.
+  Copyright © 2017年 沈增光. All rights reserved.
+*/
+
+"NowLanguage"="English";
+"PersonTitle"="Person";
