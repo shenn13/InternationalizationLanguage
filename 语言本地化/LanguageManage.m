@@ -96,6 +96,13 @@ static LanguageManage *sharedModel;
     
     [appDelegate.window makeKeyAndVisible];
     
+//    [UIApplication sharedApplication].keyWindow.rootViewController = nil;
+//    if ([UIApplication sharedApplication].keyWindow.rootViewController == nil) {
+//        BaseTabBarController *tabBar = [[BaseTabBarController alloc] init];
+//        tabBar.selectedIndex = 2;
+//        [UIApplication sharedApplication].keyWindow.rootViewController = tabBar;
+//    }
+    
 }
 
 
